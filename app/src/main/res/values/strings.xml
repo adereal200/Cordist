@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cordist</string>
+    <string name="title_activity_maps">Distance calculator</string>
+</resources>
